@@ -43,10 +43,10 @@ Il démontre ma capacité à :
 
 ## 🏗️ Architecture
 #### 🔄 Pipeline
-![Data Lakehouse Architecture](<Capture d’écran 2026-05-04 043114.jpg>)
+![Data Lakehouse Architecture](<Data Lakehouse Architecture.jpg>)
 
 #### 🧩 Modèle de données
-![E-Commerce Database ER Diagram](<Capture d’écran 2026-05-04 043657.jpg>)
+![E-Commerce Database ER Diagram](<E-Commerce Database ER Diagram.jpg>)
 
 ## 📊 Cas métiers traités
 #### 📈 Marketing
