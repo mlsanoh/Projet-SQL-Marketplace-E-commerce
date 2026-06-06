@@ -17,3 +17,6 @@
 
 -- Etape 6 : Optimisation Pipeline - Data Enginneering
 .read 06_Data_Pipeline_ETL.sql
+
+-- Etape 7 : Data Quality Logs - Data Enginneering
+.read 07_data_quality_logs_pipeline.sql

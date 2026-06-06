@@ -1,0 +1,29 @@
+🟢 Niveau 1 — Basique
+Quels sont les clients actifs par pays ?
+Combien de commandes ont été passées par jour ?
+Quel est le nombre de produits par catégorie ?
+Quels sont les statuts les plus fréquents des commandes ?
+Quels clients n’ont jamais passé de commande ?
+
+🟠 Niveau 2 — Intermédiaire
+Quel est le revenu total par pays ?
+Quel est le panier moyen par client ?
+Quels produits sont les plus vendus ?
+Quel est le taux de conversion des événements web → achat ?
+Identifier les commandes sans paiement associé
+Trouver les incohérences entre order total et order_items
+Identifier les clients inactifs avec historique d’achats
+
+🔴 Niveau 3 — Avancé / Data Engineer
+Détecter les clients à risque de churn (aucune activité récente + historique)
+Identifier les comportements suspects (fraude potentielle paiement)
+Construire une métrique de “delivery performance” par transporteur
+Trouver les sellers avec taux de retour anormalement élevé
+Détecter les doublons clients (fuzzy matching logique)
+Construire une analyse cohortes clients (rétention mensuelle)
+Identifier les goulots d’étranglement logistiques (delay shipment)
+Construire un pipeline logique ETL (raw → staging → analytics)
+Optimiser les requêtes lentes (propose index & stratégie)
+Vérifier la data quality (règles de validation globales)
+
+

@@ -1,4 +1,4 @@
--- Etape 2: - Chargement des données dans les tables
+-- Etape 2: Chargement des données dans les tables
 
 INSERT INTO customers (customer_id, first_name, last_name, email, phone, country, created_at, is_active)
 SELECT
